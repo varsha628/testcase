@@ -1,0 +1,197 @@
+INFO:root:Successfully fetched conversations list.
+INFO:root:Json data = {
+    "ok": true,
+    "channels": [
+        {
+            "id": "C086RA09KGF",
+            "name": "project",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1735897586,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "project",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T0878B0JADS",
+            "updated": 1735897587570,
+            "parent_conversation": null,
+            "creator": "U087UKUEEHW",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T0878B0JADS"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "This channel is for everything #project. Hold meetings, share docs and make decisions together with your team.",
+                "creator": "U087UKUEEHW",
+                "last_set": 1735897586
+            },
+            "properties": {
+                "canvas": {
+                    "file_id": "F0875NXF9NX",
+                    "quip_thread_id": "cRJ9AAVdqO5"
+                },
+                "use_case": "project"
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C086Z7D7WLW",
+            "name": "training",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1735897617,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "training",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T0878B0JADS",
+            "updated": 1735897650670,
+            "parent_conversation": null,
+            "creator": "U087UKUEEHW",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T0878B0JADS"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "previous_names": [
+                "taining"
+            ],
+            "num_members": 1
+        },
+        {
+            "id": "C0875R56MR8",
+            "name": "social",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1735897391,
+            "is_archived": false,
+            "is_general": false,
+            "unlinked": 0,
+            "name_normalized": "social",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T0878B0JADS",
+            "updated": 1735897394768,
+            "parent_conversation": null,
+            "creator": "U087UKUEEHW",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T0878B0JADS"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Other channels are for work. This one\u2019s just for fun. Get to know your teammates and show your lighter side. \ud83c\udf88",
+                "creator": "U087UKUEEHW",
+                "last_set": 1735897391
+            },
+            "properties": {
+                "canvas": {
+                    "file_id": "F086R9QMB7H",
+                    "is_empty": false,
+                    "quip_thread_id": "QUW9AAtLDfF"
+                },
+                "use_case": "random"
+            },
+            "previous_names": [],
+            "num_members": 4
+        },
+        {
+            "id": "C087JG61YQH",
+            "name": "all-tech",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "is_mpim": false,
+            "is_private": false,
+            "created": 1735897391,
+            "is_archived": false,
+            "is_general": true,
+            "unlinked": 0,
+            "name_normalized": "all-tech",
+            "is_shared": false,
+            "is_org_shared": false,
+            "is_pending_ext_shared": false,
+            "pending_shared": [],
+            "context_team_id": "T0878B0JADS",
+            "updated": 1735897422644,
+            "parent_conversation": null,
+            "creator": "U087UKUEEHW",
+            "is_ext_shared": false,
+            "shared_team_ids": [
+                "T0878B0JADS"
+            ],
+            "pending_connected_team_ids": [],
+            "is_member": false,
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": 0
+            },
+            "purpose": {
+                "value": "Share announcements and updates about company news, upcoming events or teammates who deserve some kudos. \u2b50",
+                "creator": "U087UKUEEHW",
+                "last_set": 1735897391
+            },
+            "properties": {
+                "canvas": {
+                    "file_id": "F086R9QMAJK",
+                    "is_empty": false,
+                    "quip_thread_id": "LSY9AAXfuvI"
+                },
+                "use_case": "welcome"
+            },
+            "previous_names": [
+                "all-slack"
+            ],
+            "num_members": 4
+        }
+    ],
+    "response_metadata": {
+        "next_cursor": ""
+    }
+}
+ERROR:root:Error fetching users list: missing_scope
